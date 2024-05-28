@@ -1,0 +1,26 @@
+{
+  "name": "game-utils",
+  "version": "1.0.0",
+  "description": "game utilities (js)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo TBI"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/em-d3v/game-utils.git"
+  },
+  "keywords": [
+    "game",
+    "game-utils"
+  ],
+  "author": "em-d3v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/em-d3v/game-utils/issues"
+  },
+  "homepage": "https://github.com/em-d3v/game-utils#readme"
+}
