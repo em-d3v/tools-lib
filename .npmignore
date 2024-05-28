@@ -6,3 +6,8 @@
 **/node_modules
 **/.npmrc
 **/scripts
+**/test
+**/.git*
+**/.prettier*
+**/.babel*
+**/.eslint*
