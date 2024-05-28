@@ -3,4 +3,8 @@
 **/.vs
 **/.vscode
 **/.npmrc
-**/.github
+#**/.github/workflows/main.yml
+**/es-lint.yml
+**/coverage.yml
+**/publish.yml
+**/.idea
