@@ -5,7 +5,8 @@
 **/.npmrc
 #**/.github/workflows/main.yml
 **/es-lint.yml
-**/coverage.yml
+**/ci.yml
+#**/coverage.yml
 **/publish.yml
 **/.idea
 **/*.sh
