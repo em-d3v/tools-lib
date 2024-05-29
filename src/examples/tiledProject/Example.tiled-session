@@ -1,0 +1,36 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "data/map.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "data/map.json": {
+            "scale": 0.83421875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.08990447649376,
+                "y": 318.8612099644128
+            }
+        },
+        "data/sprite.xml": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 400,
+    "last.imagePath": "C:/Users/eVmPr/GitHub/game-utils/src/examples/tiledProject",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "data/sprite.xml",
+        "data/map.json"
+    ],
+    "project": "Example.tiled-project",
+    "recentFiles": [
+        "data/sprite.xml",
+        "data/map.json"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
