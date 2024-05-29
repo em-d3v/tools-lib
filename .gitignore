@@ -8,3 +8,4 @@
 **/coverage.yml
 **/publish.yml
 **/.idea
+**/*.sh
