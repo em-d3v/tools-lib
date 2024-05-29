@@ -7,6 +7,8 @@
     * MODIFICATION LOG
     * - Version         : 1.0.0
     * - Date            : 28/05/2024
-    * - Author          : eVmPr
-    * - Modification    : 
+    * - Author          :
+    * - Modification    :
+    * @module game
+ *  @summary game Modules
 **/
