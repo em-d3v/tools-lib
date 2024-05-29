@@ -1,13 +1,17 @@
 
+**/log*
 **/config
 **/.eslint*
 **/.vs
 **/.vscode
 **/node_modules
 **/.npmrc
-**/scripts
+**/script*
 **/test
 **/.git*
 **/.prettier*
 **/.babel*
 **/.eslint*
+**/src
+**/source
+

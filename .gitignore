@@ -6,7 +6,7 @@
 #**/.github/workflows/main.yml
 **/es-lint.yml
 **/ci.yml
-#**/coverage.yml
+**/coverage.yml
 **/publish.yml
 **/.idea
 **/*.sh
